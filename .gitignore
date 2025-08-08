@@ -2,8 +2,4 @@
 __pycache__/
 *.pyc
 
-# Node modules
-node_modules/
 
-# Environment variables
-.env
